@@ -1,4 +1,4 @@
-// Untitled Dice v0.0.8
+// dicecoin v0.0.1
 
 // Customize these configuration settings:
 
